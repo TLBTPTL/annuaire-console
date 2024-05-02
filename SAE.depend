@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1673196009 source:c:\users\redouane\sae-langage-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"fonctions.h"
+
+1673195616 source:c:\users\redouane\sae-langage-c\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1673195616 c:\users\redouane\sae-langage-c\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"menu.h"
+
+1673196317 source:c:\users\redouane\sae-langage-c\fonctions.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1673193790 c:\users\redouane\sae-langage-c\fonctions.h
+
